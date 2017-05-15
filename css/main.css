@@ -1,1 +1,119 @@
 /* Agrega aquí tus estilos*/
+
+body{
+
+
+ background: White;
+
+}
+
+
+*{
+	font-family: 'Poppins', sans-serif;
+}
+/* titulos*/
+h1{
+    font-size: 25px;
+    background-color: Snow;
+    color: black;
+    text-align: center;
+    padding: 20px;
+    margin: 0;
+}
+h2 {
+    font-size: 30px;
+    background-color: Snow;
+    color: black;
+    text-align: center;
+    padding: 30px;
+    margin: 0;
+}
+
+/* textos*/
+#zen-summary{
+    float: center;
+    width: 97%; /* ancho*/
+    height: 90px; /* ? */
+    margin: 10px ; /* margenes alrededor site */
+    padding: 10px; /* margenes alrededor del background */
+    background-color: Snow ;
+    color: black;
+    text-align: center;
+    font-size: 15px;
+}
+
+#zen-preamble{
+    float: left;
+    width: 47%;
+    height: 300px;
+    margin: 10px;
+    padding: 10px;
+    background-color: Snow ;
+    color: black;
+    font-size: 16px;
+    text-align: justify;
+}
+#zen-explanation{
+    float: right;
+    width: 47%;
+    height: 300px;
+    margin: 10px;
+    padding: 10px;
+    background-color: Snow ;
+    color: black;
+    font-size: 16px;
+    text-align: justify;
+}
+#zen-participation{
+    float: left;
+    width: 47%;;
+    height: 300px;
+    margin: 10px ;
+    padding: 10px;
+    background-color: Snow ;
+    color: black;
+    font-size: 16px;
+    text-align: justify;
+}
+#zen-benefits{
+    float: right;
+    width: 47%;;
+    height: 300px;
+    margin: 10px;
+    padding: 10px;
+    background-color: Snow ;
+    color: black;
+    font-size: 16px;
+    text-align: justify;
+}
+#zen-requirements{
+    float: left;
+    width: 97%;
+    height: 340px;
+    margin: 10px;
+    padding: 10px;
+    background-color: Snow ;
+    color: black;
+    font-size: 16px;
+    text-align: justify;
+}
+footer{
+    float: right;
+    width: 97%;
+    height: 30px;
+    margin: 10px;
+    padding: 10px;
+    background-color: Snow ;
+    color: black;
+    font-size: 16px;
+    text-align: justify;
+}
+footer a, .wrapper li , title {
+  float: center;
+  width: 97%;
+  height: 5px;
+  margin: 5px;
+  padding: 5px;
+  color: black;
+  font-size: 12px;
+}
